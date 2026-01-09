@@ -17,8 +17,8 @@
 
 ## 🚀 About Me
 
-- 🎓 B.Tech Computer Science & Engineering (3rd Year)
-- 💻 Interested in Full Stack Development & Machine Learning
+- 🎓 B.Tech Computer Science & Engineering (4th Year)
+- 💻 Interested in Full Stack Development, Machine Learning & Data Scientist
 - 🧠 Strong in Java, DSA & Problem Solving
 - 🌱 Currently improving MERN Stack & ML skills
 - 🤝 Open to collaboration on real-world projects
