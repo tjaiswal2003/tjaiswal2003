@@ -25,6 +25,14 @@
 
 ---
 
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,c,html,css,js,react,nodejs,express,mongodb,mysql,git" />
+</p>
+
+---
+
 ## ✍️ Random Dev Quote
 
 <p align="center">
